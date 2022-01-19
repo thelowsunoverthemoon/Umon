@@ -1,6 +1,8 @@
 # Umon
 Umon is a clean CSS theme for old Reddit. Demonstration [here](https://www.reddit.com/r/Umon/)
 
+![image](https://imgur.com/GA8YjTl)
+
 - inspired by Fluid Design and Naut
 - unique slide-in sidebar and userbar
 - no subreddit-specific addons needed
